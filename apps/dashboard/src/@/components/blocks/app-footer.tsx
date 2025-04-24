@@ -75,7 +75,7 @@ export function AppFooter(props: AppFooterProps) {
               </Link>
             </Button>
             <Button size="icon" variant="ghost" asChild className="size-9">
-              <Link href="https://www.tiktok.com/@thirdweb" target="_blank">
+              <Link href="https://www.tiktok.com/explore@thirdweb" target="_blank">
                 <TiktokIcon className="size-5 text-muted-foreground" />
               </Link>
             </Button>
